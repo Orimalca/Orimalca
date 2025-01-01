@@ -1,5 +1,3 @@
-# Ori Malca
-
 👋 Hello! I'm Ori, a Master's student in Computer Science at BIU, researching Deep Learning with a focus on Computer Vision and 3D Modeling under the supervision of Prof. Gal Chechik.
 
 ## List of My Latest Projects:
