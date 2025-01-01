@@ -1,4 +1,4 @@
-👋 Hello! I'm Ori, a Master's student in Computer Science at BIU, researching Deep Learning with a focus on Computer Vision and 3D Modeling under the supervision of Prof. Gal Chechik, head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) & Nvidia Research Group IL.
+👋 Hello! I'm Ori, a Master's student in Computer Science at BIU, researching Deep Learning with a focus on Computer Vision and 3D Modeling under the supervision of Prof. Gal Chechik, head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and Nvidia Research Group IL.
 
 ## Recent Highlights:
 - Bringing Objects to Life: 4D generation from 3D objects
