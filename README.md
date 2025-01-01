@@ -6,10 +6,10 @@
   - [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/)
   - [🤗 Hugging Face](https://huggingface.co/papers/2412.20422)
 
-Feel free to reach out for discussions or if you are interested in my work!
-
 ## Connect with Me
 - **Email**: [orimalca2@gmail.com](mailto:orimalca2@gmail.com)
 - **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/ori-malca/)
 - **X**: [Visit my X profile](https://x.com/Orimalca)
 - **Hugging Face**: [Visit my Hugging Face profile](https://huggingface.co/Orimalca)
+
+Feel free to reach out for discussions or if you are interested in my work!
