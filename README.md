@@ -4,9 +4,9 @@
 
 ## List of My Latest Projects:
 - Bringing Objects to Life: 4D generation from 3D objects:
-  - [Arxiv 📑](https://arxiv.org/abs/2412.20422)
-  - [Project Page 🌐](https://3-to-4d.github.io/3-to-4d/)
-  - [Hugging Face 🤗](https://huggingface.co/papers/2412.20422)
+  - [📑 Arxiv](https://arxiv.org/abs/2412.20422)
+  - [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/)
+  - [🤗 Hugging Face](https://huggingface.co/papers/2412.20422)
 
 Feel free to reach out for discussions or if you are interested in my work!
 
