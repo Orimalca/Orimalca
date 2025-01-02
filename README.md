@@ -22,6 +22,7 @@ Previous was:
 --->
 
 ## 💬 Contact Me
+Feel free to reach out for discussions or if you are interested in my work!
 <div>
 <!--   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&labelColor=D14836" height="25"></a> -->
   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
@@ -32,8 +33,6 @@ Previous was:
   <a href="https://x.com/Orimalca"><img src="https://img.shields.io/badge/Profile-%23000000.svg?logo=X&logoColor=white" height="25"></a>
   <!--- TODO: add link to **🌐 Personal Website --->
 </div>
-
-Feel free to reach out for discussions or if you are interested in my work!
 
 <!--- NOTES
 1. posibile emoji's for "Connect with Me" part: [💬, 👥, 🌏, 🙋‍♂️, 😀, 🔗, 🖇️, 🔁, 🙌]
