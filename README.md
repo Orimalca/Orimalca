@@ -23,7 +23,9 @@ Previous was:
 
 ## 💬 Contact Me
 <div>
-  <p style="margin-bottom: 0;">Feel free to reach out for discussions or if you are interested in my work!</p>
+  <span>Feel free to reach out for discussions or if you are interested in my work!</span>
+  <br>
+<!--   <p style="margin-bottom: 0;">Feel free to reach out for discussions or if you are interested in my work!</p> -->
 <!--   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&labelColor=D14836" height="25"></a> -->
   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
 <!--   <a href="https://www.linkedin.com/in/ori-malca/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-grey?logo=linkedin-white&logoColor=fff&labelColor=0A66C2" height="25"></a> -->
@@ -37,5 +39,8 @@ Previous was:
 <!--- NOTES
 1. posibile emoji's for "Connect with Me" part: [💬, 👥, 🌏, 🙋‍♂️, 😀, 🔗, 🖇️, 🔁, 🙌]
 2. for badges refer to https://github.com/inttter/md-badges
+--->
 
+<!--- TODOS
+1. Remove space between headings to content underwards to make it look more clear.
 --->
