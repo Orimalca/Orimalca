@@ -39,6 +39,7 @@ Previous was:
 <!--- NOTES
 1. posibile emoji's for "Connect with Me" part: [💬, 👥, 🌏, 🙋‍♂️, 😀, 🔗, 🖇️, 🔁, 🙌]
 2. for badges refer to https://github.com/inttter/md-badges
+3. templates for example in https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
 --->
 
 <!--- TODOS
