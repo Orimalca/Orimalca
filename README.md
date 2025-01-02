@@ -23,7 +23,7 @@ Previous was:
 
 ## 💬 Contact Me
 <div>
-  <p>Feel free to reach out for discussions or if you are interested in my work!</p>
+  <p style="margin-bottom: 0;">Feel free to reach out for discussions or if you are interested in my work!</p>
 <!--   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&labelColor=D14836" height="25"></a> -->
   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
 <!--   <a href="https://www.linkedin.com/in/ori-malca/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-grey?logo=linkedin-white&logoColor=fff&labelColor=0A66C2" height="25"></a> -->
