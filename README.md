@@ -3,7 +3,7 @@ I'm Ori, a Master's student in Computer Science at Bar-Ilan University in Israel
 
 ## ⭐ Recent Highlights
 <div>
-  <a href="https://arxiv.org/abs/2412.20422"><img src="2412.20422.png" alt="Descriptive text" width="60%" height="auto"></a>
+  <a href="https://arxiv.org/abs/2412.20422"><img src="images/2412.20422.png" alt="Descriptive text" width="60%" height="auto"></a>
   <br>
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-arXiv-b31b1b?logo=arXiv&labelColor=grey" height="22.5"></a> -->
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-2412.20422-b31b1b?logo=arXiv&labelColor=grey" height="22.5"></a> -->
