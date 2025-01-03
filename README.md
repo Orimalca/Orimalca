@@ -1,5 +1,5 @@
 ## 👋 Hello
-I'm Ori, a Master's student in Computer Science at Bar-Ilan University in Israel, researching Deep Learning with a focus on Computer Vision under the supervision of Prof. Gal Chechik, head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [Nvidia Research Group IL](https://research.nvidia.com/labs/par/).
+I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https://www.biu.ac.il/en) in Israel, researching Deep Learning with a focus on Computer Vision under the supervision of [Prof. Gal Chechik](https://www.linkedin.com/in/gal-chechik-00a6b44), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [Nvidia Research Group IL](https://research.nvidia.com/labs/par/).
 
 ## ⭐ Recent Highlights
 <div>
