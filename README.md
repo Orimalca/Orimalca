@@ -41,13 +41,11 @@ Previous was:
   <!--- TODO: add link to **🌐 Personal Website --->
   </div>
 </div>
-
-<!--- NOTES
+<!---
+NOTES
 1. posibile emoji's for "Connect with Me" part: [💬, 👥, 🌏, 🙋‍♂️, 😀, 🔗, 🖇️, 🔁, 🙌]
 2. for badges refer to https://github.com/inttter/md-badges
 3. templates for example in https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
---->
-
-<!--- TODOS
+TODOS
 1. Remove space between headings to content underwards to make it look more clear.
 --->
