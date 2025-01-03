@@ -31,16 +31,16 @@ Previous was:
   <div  align="center">
   <!--   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?logo=gmail&logoColor=white&labelColor=D14836" height="25"></a> -->
   <!--   <a href="mailto:orimalca2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a> -->
-<!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/email.svg" height="40"></a> -->
-    <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/email_plastic.svg" height="40"></a>
+<!--     <a href="mailto:orimalca2@gmail.com"><img src="assets/svgs/email.svg" height="40"></a> -->
+    <a href="mailto:orimalca2@gmail.com"><img src="assets/svgs/email_plastic.svg" height="40"></a>
   <!--   <a href="https://www.linkedin.com/in/ori-malca/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-grey?logo=linkedin-white&logoColor=fff&labelColor=0A66C2" height="25"></a> -->
   <!--   <a href="https://www.linkedin.com/in/ori-malca/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25"></a> -->
-<!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/linkedin.svg" height="40"></a> -->
-    <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/linkedin_plastic.svg" height="40"></a>
+<!--     <a href="https://www.linkedin.com/in/ori-malca/"><img src="assets/svgs/linkedin.svg" height="40"></a> -->
+    <a href="https://www.linkedin.com/in/ori-malca/"><img src="assets/svgs/linkedin_plastic.svg" height="40"></a>
   <!--   <a href="https://x.com/Orimalca"><img src="https://img.shields.io/badge/-Profile-grey?logo=X&logoColor=white&labelColor=black" height="25"></a> -->
   <!--   <a href="https://x.com/Orimalca"><img src="https://img.shields.io/badge/Profile-%23000000.svg?logo=X&logoColor=white" height="25"></a> -->
-<!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/X.svg" height="40"></a> -->
-    <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/X_plastic.svg" height="40"></a>
+<!--     <a href="https://x.com/Orimalca"><img src="assets/svgs/X.svg" height="40"></a> -->
+    <a href="https://x.com/Orimalca"><img src="assets/svgs/X_plastic.svg" height="40"></a>
   <!--   <a href="https://huggingface.co/Orimalca"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height="25"></a> -->
 <!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf.svg" height="40"></a> -->
     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf_plastic.svg" height="40"></a>
