@@ -1,7 +1,7 @@
-## 👋 Hello
+# 👋 Hello
 I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https://www.biu.ac.il/en) in Israel, researching Deep Learning with a focus on Computer Vision, under the supervision of [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [Nvidia Research Group IL](https://research.nvidia.com/labs/par/).
 
-## ⭐ Recent Highlights
+# ⭐ Recent Highlights
 <div>
 <!--   <span><strong><ins>3to4D</ins></strong>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</span><br> -->
   <h3><ins>3to4D</ins>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</h3>
@@ -31,7 +31,7 @@ Previous was:
 - Bringing Objects to Life: 4D generation from 3D objects &nbsp;[ [📑 arXiv](https://arxiv.org/abs/2412.20422) • [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/) • [🤗 Hugging Face](https://huggingface.co/papers/2412.20422) • [💻 Code](https://github.com/ohad204/3to4D) ]
 --->
 
-## 💬 Contact Me
+# 💬 Contact Me
 <div>
 <!--   <span>Feel free to reach out for discussions or if you are interested in my work!</span> -->
 <!--   <br><br> -->
