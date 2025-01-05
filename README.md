@@ -3,8 +3,8 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
 
 ## ⭐ Recent Highlights
 <div>
-<!--   <span>3to4D: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation.</span><br> -->
-  <p>3to4D: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation.</p>
+<!--   <span><u>3to4D</u>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation.</span><br> -->
+  <p><u>3to4D</u>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation.</p>
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_1.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_2.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_3.png" width="60.4%" height="auto"></a> -->
