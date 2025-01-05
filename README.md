@@ -2,9 +2,9 @@
 I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https://www.biu.ac.il/en) in Israel, researching Deep Learning with a focus on Computer Vision, under the supervision of [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [Nvidia Research Group IL](https://research.nvidia.com/labs/par/).
 
 # ⭐ Recent Highlights
-<div>
-<!--   <span><strong><ins>3to4D</ins></strong>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</span><br> -->
-  <h3><ins>3to4D</ins>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</h3>
+<!-- <span><strong><ins>3to4D</ins></strong>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</span><br> -->
+<h3><ins>3to4D</ins>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</h3>
+<div align="center">
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_1.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_2.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_3.png" width="60.4%" height="auto"></a> -->
