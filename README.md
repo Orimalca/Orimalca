@@ -49,11 +49,11 @@ Previous was:
   <!--   <a href="https://x.com/Orimalca"><img src="https://img.shields.io/badge/Profile-%23000000.svg?logo=X&logoColor=white" height="25"></a> -->
 <!--     <a href="https://x.com/Orimalca"><img src="assets/svgs/X.svg" height="40"></a> -->
     <a href="https://x.com/Orimalca"><img src="assets/svgs/X_plastic.svg" height="40"></a>
+<!--   <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="https://img.shields.io/badge/-Scholar-grey?logo=googlescholar&labelColor=white" height="25"></a> -->
+    <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="assets/svgs/scholar_plastic.svg" height="40"></a>
   <!--   <a href="https://huggingface.co/Orimalca"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height="25"></a> -->
 <!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf.svg" height="40"></a> -->
     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf_plastic.svg" height="40"></a>
-<!--   <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="https://img.shields.io/badge/-Scholar-grey?logo=googlescholar&labelColor=white" height="25"></a> -->
-    <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="assets/svgs/scholar_plastic.svg" height="40"></a>
   <!--- TODO: add link to **🌐 Personal Website --->
   </div>
 </div>
