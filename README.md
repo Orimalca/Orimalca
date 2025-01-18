@@ -52,6 +52,8 @@ Previous was:
   <!--   <a href="https://huggingface.co/Orimalca"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height="25"></a> -->
 <!--     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf.svg" height="40"></a> -->
     <a href="https://huggingface.co/Orimalca"><img src="assets/svgs/hf_plastic.svg" height="40"></a>
+<!--   <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="https://img.shields.io/badge/-Scholar-grey?logo=googlescholar&labelColor=white" height="25"></a> -->
+    <a href="https://scholar.google.com/citations?user=6Hz0jxsAAAAJ"><img src="assets/svgs/scholar_plastic.svg" height="40"></a>
   <!--- TODO: add link to **🌐 Personal Website --->
   </div>
 </div>
@@ -60,6 +62,7 @@ NOTES
 1. posibile emoji's for "Connect with Me" part: [💬, 👥, 🌏, 🙋‍♂️, 😀, 🔗, 🖇️, 🔁, 🙌]
 2. for badges refer to https://github.com/inttter/md-badges
 3. templates for example in https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
+4. to create badge link refer to https://shields.io/badges
 TODOS
 1. Remove space between headings to content underwards to make it look more clear.
 --->
