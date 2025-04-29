@@ -30,15 +30,6 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
 Previous was:
 - Bringing Objects to Life: 4D generation from 3D objects &nbsp;[ [📑 arXiv](https://arxiv.org/abs/2412.20422) • [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/) • [🤗 Hugging Face](https://huggingface.co/papers/2412.20422) • [💻 Code](https://github.com/ohad204/3to4D) ]
 --->
-<h3><ins>PDMBooth</ins>: A method to personalize T2I Diffusion Models given a few(3~5) images of a subject</h3>
-<div align="center">
-  <a href="https://github.com/Orimalca/PDMBooth"><img src="assets/pdmbooth/pdmbooth.jpg" width="60.4%" height="auto"></a>
-  <br>
-  <a href="https://drive.google.com/file/d/1FV18Wd0tvmdIs42Jy0aevc04QwU7OhzA/view?usp=sharing"><img src="https://img.shields.io/badge/📝%20Project-Report-b31b1b" height="25"></a> <!-- 📝 📄 📑 📋 -->
-<!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐-Project%20Page-%2300CED1" height="25"></a> -->
-  <a href="https://github.com/Orimalca/PDMBooth"><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a>
-<!--   previously it was <a href="https://github.com/ohad204/3to4D"><img src="https://img.shields.io/badge/Code-GitHub-blue.svg?logo=github" height="25"></a> -->
-</div>
 
 # 💬 Contact Me
 <div>
