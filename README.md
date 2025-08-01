@@ -18,7 +18,7 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
   <br>
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-arXiv-b31b1b?logo=arXiv&labelColor=grey" height="25"></a> -->
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-2412.20422-b31b1b?logo=arXiv&labelColor=grey" height="25"></a> -->
-  <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv" height="25"></a>
+  <a href="https://arxiv.org/abs/2412.20422v1"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv" height="25"></a>
   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐%20Project-Page-green" height="25"></a>
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐-Project%20Page-%2300CED1" height="25"></a> -->
   <a href="https://github.com/ohad204/3to4D"><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a>
