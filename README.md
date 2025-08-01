@@ -10,7 +10,7 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
   <br>
   <sup>1</sup>Bar-Ilan University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>OriginAI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>NVIDIA
   <br>
-  <a href="..."><img src="assets/pq_learning/fig1.png" width="60.4%" height="auto"></a>
+  <a href="..."><img src="assets/pq_learning/fig1.png" width="80.4%" height="auto"></a>
   <br>
   <a href="..."><img src="https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg?logo=arXiv" height="25"></a>
 <!--   <a href="..."><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a> -->
