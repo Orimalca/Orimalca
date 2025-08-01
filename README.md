@@ -2,15 +2,38 @@
 I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https://www.biu.ac.il/en) in Israel, researching Deep Learning with a focus on Computer Vision, under the supervision of [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [NVIDIA Research Group IL](https://research.nvidia.com/labs/par/).
 
 # ⭐ Recent Highlights
-<!-- <span><strong><ins>3to4D</ins></strong>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</span><br> -->
-<h3><ins>3to4D</ins>: A method for animating 3D objects by conditioning on textual prompts to guide 4D generation</h3>
+<!-- <div align="center"><h3>Per-Query Visual Concept Learning</h3></div> -->
+<!-- **Affiliations:** <sup>1</sup>Bar-Ilan University, <sup>2</sup>OriginAI, <sup>3</sup>NVIDIA -->
 <div align="center">
+  <h3>Per-Query Visual Concept Learning <em>(WACV 2026)</em></h3>
+  <ins>Ori Malca</ins><sup>1</sup>&emsp;&emsp;Dvir Samuel<sup>1,2</sup>&emsp;&emsp;Gal Chechik<sup>1,3</sup>
+  <br>
+  <sup>1</sup>Bar-Ilan University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>OriginAI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>NVIDIA
+  <br>
+  <a href="..."><img src="assets/pq_learning/fig1.png" width="60.4%" height="auto"></a>
+  <br>
+  <a href="..."><img src="https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg?logo=arXiv" height="25"></a>
+<!--   <a href="..."><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a> -->
+  <a href="..."><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg" height="25"></a>
+</div>
+<br>
+<!-- <br> -->
+<div align="center">
+  <!-- <span><strong><ins>3to4D</ins></strong>: A method for animating user-provided 3D objects by conditioning on textual prompts to guide 4D generation</span><br> -->
+  <!-- <h3>Bringing Objects to Life: 4D generation from 3D objects</h3> -->
+  <!-- <div align="center"><h3><ins>3to4D</ins>: A method for animating 3D objects by conditioning on textual prompts to guide 4D generation</h3></div> -->
+<!--   <h3><ins>3to4D</ins>: A method for animating 3D objects by conditioning on textual prompts to guide 4D generation</h3> -->
+  <h3>Bringing Objects to Life: 4D generation from 3D objects <em>(CVPR 2025)</em></h3>
+  Ohad Rahamim*<sup>,1</sup>&emsp;&emsp;<ins>Ori Malca</ins>*<sup>,1</sup>&emsp;&emsp;Dvir Samuel<sup>1,2</sup>&emsp;&emsp;Gal Chechik<sup>1,3</sup>
+  <br>
+  <sup>1</sup>Bar-Ilan University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>OriginAI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>NVIDIA
+  <br>
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_1.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_2.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_3.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/paper_4.png" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/3t4d_1.gif" width="60.4%" height="auto"></a> -->
-  <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/3t4d_2.gif" width="60.4%" height="auto"></a>
+  <a href="https://arxiv.org/abs/2412.20422v1"><img src="assets/3t4d/3t4d_2.gif" width="60.4%" height="auto"></a>
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/3t4d_3.gif" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/Mario_1.gif" width="60.4%" height="auto"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="assets/3t4d/Mario_2.gif" width="60.4%" height="auto"></a> -->
@@ -19,7 +42,7 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-arXiv-b31b1b?logo=arXiv&labelColor=grey" height="25"></a> -->
 <!--   <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/-2412.20422-b31b1b?logo=arXiv&labelColor=grey" height="25"></a> -->
   <a href="https://arxiv.org/abs/2412.20422v1"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv" height="25"></a>
-  <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐%20Project-Page-green" height="25"></a>
+<!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐%20Project-Page-green" height="25"></a> -->
 <!--   <a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐-Project%20Page-%2300CED1" height="25"></a> -->
   <a href="https://github.com/ohad204/3to4D"><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a>
 <!--   previously it was <a href="https://github.com/ohad204/3to4D"><img src="https://img.shields.io/badge/Code-GitHub-blue.svg?logo=github" height="25"></a> -->
@@ -30,6 +53,7 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
 Previous was:
 - Bringing Objects to Life: 4D generation from 3D objects &nbsp;[ [📑 arXiv](https://arxiv.org/abs/2412.20422) • [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/) • [🤗 Hugging Face](https://huggingface.co/papers/2412.20422) • [💻 Code](https://github.com/ohad204/3to4D) ]
 --->
+<!-- <br> -->
 
 # 💬 Contact Me
 <div>
