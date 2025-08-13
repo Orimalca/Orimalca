@@ -10,9 +10,10 @@ I'm Ori, a Master's student in Computer Science at [Bar-Ilan University](https:/
   <br>
   <sup>1</sup>Bar-Ilan University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>OriginAI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>NVIDIA
   <br>
-  <a href="..."><img src="assets/pq_learning/fig1.png" width="85%" height="auto"></a>
+  <a href="https://per-query-visual-concept-learning.github.io/"><img src="assets/pq_learning/fig1.png" width="85%" height="auto"></a>
   <br>
-  <a href="..."><img src="https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg?logo=arXiv" height="25"></a>
+  <a href="https://arxiv.org/abs/2508.09045"><img src="https://img.shields.io/badge/arXiv-2508.09045-b31b1b.svg?logo=arXiv" height="25"></a>
+  <a href="https://per-query-visual-concept-learning.github.io/"><img src="https://img.shields.io/badge/🌐%20Project-Page-green" height="25"></a>
 <!--   <a href="..."><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a> -->
   <a href="..."><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg" height="25"></a>
 </div>
