@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me
-ML Researcher with cross-domain experience in developing and deploying ML solutions across research and production environments. M.Sc. in Computer Science from [Bar-Ilan University](https://www.biu.ac.il/en), focused on Deep Learning and Computer Vision under the supervision of [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [NVIDIA Research Group IL](https://research.nvidia.com/labs/par/). Highly motivated, quick learner with strong hands-on skills and a love for working in a team.
+ML Researcher with cross-domain experience in developing and deploying ML solutions across research and production environments. M.Sc. in Computer Science from [Bar-Ilan University](https://www.biu.ac.il/en), focused on Deep Learning and Computer Vision under the supervision of [Prof. Gal Chechik](https://chechiklab.biu.ac.il/~gal/), head of the [Learning Systems Lab](https://chechiklab.biu.ac.il/) and [NVIDIA Research Group IL](https://research.nvidia.com/labs/par/).
 <!-- Emojis for "About Me": 🙋‍♂️👤 -->
 
 # ⭐ Recent Highlights
