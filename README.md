@@ -18,6 +18,15 @@ ML Researcher with cross-domain hands-on experience in developing and deploying 
 <!--   <a href="..."><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a> -->
   <a href="https://huggingface.co/papers/2508.09045"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg" height="25"></a>
 </div>
+<!-- <table align="center">
+  <tr>
+    <td align="center" width="865">
+      <sub>
+        An add-on that enhances personalization of text-to-image generative models (Diffusion Models/Transformers, Stable Diffusion, FLUX, LoRA) using attention-based losses.
+      </sub>
+    </td>
+  </tr>
+</table> -->
 <br>
 <!-- <br> -->
 <div align="center">
@@ -51,6 +60,38 @@ ML Researcher with cross-domain hands-on experience in developing and deploying 
   <a href="https://huggingface.co/papers/2412.20422"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg" height="25"></a>
 <!--   <a href="https://github.com/ohad204/3to4D/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg" height="25"></a> -->
 </div>
+<!-- <table align="center">
+  <tr>
+    <td align="center" width="615">
+      <sub>
+        A method performing text-conditioned 3D-to-4D generation by (1) converting a 3D representation (e.g., mesh, point cloud, or SfM/SLAM-based 3D reconstruction) to NeRF through classical computer vision pipelines (camera calibration, pose estimation, ray casting, differentiable rendering), and (2) extending it to 4D using text-to-video diffusion models.
+      </sub>
+    </td>
+  </tr>
+</table> -->
+
+
+<!-- <table align="center">
+  <tr>
+    <td align="center" width="700">
+      <h3>Bringing Objects to Life: 4D generation from 3D objects <em>(CVPR 2025)</em></h3>
+      Ohad Rahamim*<sup>,1</sup>&emsp;&emsp;<ins>Ori Malca</ins>*<sup>,1</sup>&emsp;&emsp;Dvir Samuel<sup>1,2</sup>&emsp;&emsp;Gal Chechik<sup>1,3</sup>
+      <br>
+      <sup>1</sup>Bar-Ilan University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>OriginAI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>NVIDIA
+      <br>
+      <a href="https://arxiv.org/abs/2412.20422v1"><img src="assets/3t4d/3t4d_2.gif" width="600"></a>
+      <br>
+      <a href="https://arxiv.org/abs/2412.20422v1"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv" height="25"></a>
+      <a href="https://github.com/ohad204/3to4D"><img src="https://img.shields.io/badge/-Code-blue?logo=github&labelColor=grey" height="25"></a>
+      <a href="https://huggingface.co/papers/2412.20422"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg" height="25"></a>
+      <br>
+      <sub>
+        A method performing text-conditioned 3D-to-4D generation by (1) converting a 3D representation (e.g., mesh, point cloud, or SfM/SLAM-based 3D reconstruction) to NeRF through classical computer vision pipelines (camera calibration, pose estimation, ray casting, differentiable rendering), and (2) extending it to 4D using text-to-video diffusion models.
+      </sub>
+    </td>
+  </tr>
+</table> -->
+
 <!--- 
 Previous was:
 - Bringing Objects to Life: 4D generation from 3D objects &nbsp;[ [📑 arXiv](https://arxiv.org/abs/2412.20422) • [🌐 Project Page](https://3-to-4d.github.io/3-to-4d/) • [🤗 Hugging Face](https://huggingface.co/papers/2412.20422) • [💻 Code](https://github.com/ohad204/3to4D) ]
